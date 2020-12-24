@@ -1,1 +1,3 @@
-学习笔记
+1. Build deel learning environment
+
+2. Python basics
